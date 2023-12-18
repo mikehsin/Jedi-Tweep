@@ -24,7 +24,7 @@
 	$hostName = 'db.cs.dal.ca';
     // db.cs.dal.ca
 	$username = 'hsin';
-	$password = 'WGjo6ExZo8MVbhRzhwNTomw8K';
+	$password = 'ZTiyLfjkxY7eyGa7YUmLHp2mu';
 	$dbname = 'hsin';
 
 	$dbconnection = new mysqli($hostName, $username, $password, $dbname);

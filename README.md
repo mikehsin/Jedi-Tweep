@@ -19,8 +19,8 @@ Developed by Mike Hsin along with the CSCI-2170-Yoda2 group, "Jedi Tweep" is a m
 3. Ensure the server environment is running a compatible version of PHP.
 
 ## Access Credentials
-- To begin using "Jedi Tweep," log in as 'Yoda,' an administrator, with the credentials provided below:
-- **Username**: yoda
+- To begin using "Jedi Tweep," log in as 'Yoda,' an administrator, with the non-admin credentials provided below:
+- **Username**: luke
 - **Password**: 1234
 - Explore the application's features, test the user stories implemented, and verify the application behavior.
 
